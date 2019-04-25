@@ -1,7 +1,7 @@
-# sql-server-useful-scripts
+# Sql server useful scripts
 A repository for useful Microsoft SQL Server Scripts
 
-## Stored Procudures 
+## Stored Procedures 
 
 ### sp_generate_sprocs 
 
